@@ -1,1 +1,1 @@
-Api com verbos http e mock.
+Api com verbos HTTP e Mock.
